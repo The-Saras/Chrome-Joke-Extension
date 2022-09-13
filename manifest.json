@@ -1,0 +1,11 @@
+{
+    "name": "Random Joke",
+    "version": "1.0.0",
+    "description": "Random Jokes that will never make your day :D",
+    "manifest_version": 3,
+    "author": "Saras Joshi",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Joke Extension"
+    }
+}
