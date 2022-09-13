@@ -2,7 +2,7 @@ async function fetchData() {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '8d4997a29cmsh39288dd8628d5b5p1640e7jsnda1fc2fd7bc5',
+            'X-RapidAPI-Key': 'api key',
             'X-RapidAPI-Host': 'dad-jokes.p.rapidapi.com'
         }
     };
